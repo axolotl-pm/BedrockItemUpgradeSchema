@@ -1,5 +1,5 @@
 {
-    "name": "axlotl-pm/bedrock-item-upgrade-schema",
+    "name": "axolotl-pm/bedrock-item-upgrade-schema",
     "description": "JSON schemas for upgrading items found in older Minecraft: Bedrock world saves",
     "type": "library",
     "license": "CC0-1.0",
